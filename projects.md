@@ -21,7 +21,7 @@ A curated list of papers and technical projects.
   <div class="card">
     {% if p.image %}
     <div class="card-img">
-      <img src="{{ p.image }}" alt="{{ p.title }}">
+      <img src="{{ p.image | relative_url }}" alt="{{ p.title | escape }}">
     </div>
     {% endif %}
 
