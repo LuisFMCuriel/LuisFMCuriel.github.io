@@ -1,3 +1,7 @@
+# Load custom CSS
+include: ["assets"]
+
+
 title: Luis F. Curiel
 description: Deep learning · Microscopy · Computational imaging
 

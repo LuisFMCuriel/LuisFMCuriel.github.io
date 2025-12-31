@@ -3,6 +3,8 @@ layout: default
 title: Curriculum Vitae
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # Curriculum Vitae
 
 <iframe

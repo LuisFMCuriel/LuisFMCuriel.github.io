@@ -3,10 +3,22 @@ layout: default
 title: Projects
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<ul class="nav">
+  <li><a href="/">Home</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/cv">CV</a></li>
+</ul>
+
+# Projects
+
+<div class="cards">
 {% for p in site.data.projects %}
   <div class="card">
-    <h3><a href="{{ p.link }}">{{ p.title }}</a></h3>
+    <h3><a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.title }}</a></h3>
     <p>{{ p.description }}</p>
-    <small>{{ p.year }} · {{ p.tags | join: " • " }}</small>
+    <div class="meta">{{ p.year }} · {{ p.tags | join: " • " }}</div>
   </div>
 {% endfor %}
+</div>

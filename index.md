@@ -3,16 +3,21 @@ layout: default
 title: Home
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<ul class="nav">
+  <li><a href="/">Home</a></li>
+  <li><a href="/projects">Projects</a></li>
+  <li><a href="/cv">CV</a></li>
+</ul>
+
 # Luis F. Curiel
 
-I work on **deep learning for microscopy, computational imaging, and physics-based simulations**.
+I work on **deep learning for microscopy**, **computational imaging**, and **physics-based simulation**.
 
-## Featured projects
-You can see selected research and software projects on the
-[Projects](/projects) page.
-
-- Deep learning for microscopy denoising
+## Featured
+- Deep learning denoising for microscopy
 - Volumetric fast microscopy (Fourier light field imaging)
 - Deep reinforcement learning (DDQN in PyTorch)
 
-📄 [Curriculum Vitae](/cv)
+Go to **[Projects](/projects)** for papers + software, and **[CV](/cv)** for the full resume.
