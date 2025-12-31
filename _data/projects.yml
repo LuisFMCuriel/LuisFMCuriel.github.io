@@ -50,7 +50,7 @@
   image: /assets/projects/denoising.png   # optional, add later if you want
 
 - title: Physics-based simulation of microfluidic PCR heating - Confidential industry project
-  year: 2024
+  year: 2025
   tags: [Physical Simulation, COMSOL, Microfluidics, Heat Transfer, Industry]
   description: >
     Performed physics-based simulations of a microfluidic PCR heater using COMSOL,
@@ -61,7 +61,7 @@
   image: /assets/projects/PCR_heater.png
 
 - title: Computer vision for microfluidic chip analysis -Confidential industry project
-  year: 2024
+  year: 2025
   tags: [Computer Vision, Deep Learning, PyTorch, Microfluidics, Edge Computing, Industry]
   description: >
     Developed a deep neural network for feature detection and decision making
