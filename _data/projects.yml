@@ -39,3 +39,4 @@
   link: https://medium.com/@felipemoralescuriel/introduction-to-ddqn-in-pytorch-dd0e5092dbec
   description: Practical DDQN tutorial and implementation notes.
   featured: true
+  image: /assets/projects/DDQN.gif
