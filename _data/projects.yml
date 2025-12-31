@@ -41,3 +41,11 @@
   description: Practical DDQN tutorial and implementation notes.
   featured: true
   image: /assets/projects/DDQN.gif
+
+- title: Deep learning–based denoising for low-light microscopy (Nature Methods)
+  year: 2023
+  tags: [Deep Learning, Microscopy, Denoising]
+  link: https://www.nature.com/articles/s41592-023-01836-9
+  description: Deep learning approaches for denoising low-light microscopy data, enabling improved image quality under photon-limited conditions.
+  image: /assets/projects/denoising.gif   # optional, add later if you want
+
