@@ -24,6 +24,7 @@
   tags: [Optical Devices, Neurophotonics, Bioluminescence]
   link: https://www.spiedigitallibrary.org/journals/neurophotonics/volume-11/issue-2/024203/Bioluminescence-as-a-functional-tool-for-visualizing-and-controlling-neuronal/10.1117/1.NPh.11.2.024203.full
   description: Bioluminescence as a functional tool with emphasis on optical development and application in neurophotonics.
+  image: /assets/projects/biolum_fig.gif
 
 - title: Deep learning enables fast bioluminescent imaging (bioRxiv)
   year: 2025
