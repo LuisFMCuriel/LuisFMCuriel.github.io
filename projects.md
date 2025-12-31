@@ -18,7 +18,16 @@ title: Projects
   <div class="card">
     <h3><a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.title }}</a></h3>
     <p>{{ p.description }}</p>
-    <div class="meta">{{ p.year }} · {{ p.tags | join: " • " }}</div>
+
+    <div class="meta">
+      <span>{{ p.year }}</span>
+      <div class="chips">
+        {% for t in p.tags %}
+          <span class="chip">{{ t }}</span>
+        {% endfor %}
+      </div>
+    </div>
   </div>
 {% endfor %}
 </div>
+
