@@ -1,8 +1,8 @@
-- title: Deep learning + microscopy (Cell Systems / Communications Biology)
+- title: Deep learning denoising for microscopy (Communications Biology)
   year: 2022
-  tags: [Deep Learning, Microscopy]
+  tags: [Deep Learning, Microscopy, Denoising]
   link: https://www.nature.com/articles/s42003-022-04292-x
-  description: Denoising / restoration for microscopy using deep learning.
+  description: Denoising / restoration for microscopy using deep learning, including applications to bioluminescent microscopy.
   featured: true
 
 - title: Photochemical dynamics under incoherent light (JCP)
@@ -11,11 +11,23 @@
   link: https://pubs.aip.org/aip/jcp/article-abstract/152/7/074304/485526/Photochemical-dynamics-under-incoherent
   description: Computational simulation of solar cell photochemical dynamics.
 
+- title: Deep learning–enhanced bioluminescence microscopy (SPIE Proceedings)
+  year: 2023
+  tags: [Deep Learning, Microscopy, Denoising]
+  link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12204/122040B/Deep-earning-enhanced-bioluminescence-microscopy/10.1117/12.2632717.short
+  description: Supervised and unsupervised learning approaches for denoising in microscopy imaging.
+
+- title: Bioluminescence for visualizing and controlling neuronal activity (Neurophotonics)
+  year: 2024
+  tags: [Optical Devices, Neurophotonics, Bioluminescence]
+  link: https://www.spiedigitallibrary.org/journals/neurophotonics/volume-11/issue-2/024203/Bioluminescence-as-a-functional-tool-for-visualizing-and-controlling-neuronal/10.1117/1.NPh.11.2.024203.full
+  description: Bioluminescence as a functional tool with emphasis on optical development and application in neurophotonics.
+
 - title: Volumetric fast microscopy (bioRxiv)
   year: 2025
-  tags: [Deep Learning, Fourier Light Field Imaging]
+  tags: [Deep Learning, Fourier Light Field Imaging, Volumetric Imaging]
   link: https://www.biorxiv.org/content/10.1101/2025.10.13.680966v2.abstract
-  description: Deep learning for fast volumetric microscopy reconstruction.
+  description: Deep learning for fast volumetric microscopy reconstruction (Fourier light field imaging).
   featured: true
 
 - title: DDQN in PyTorch (Medium)
