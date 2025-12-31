@@ -25,12 +25,13 @@
   link: https://www.spiedigitallibrary.org/journals/neurophotonics/volume-11/issue-2/024203/Bioluminescence-as-a-functional-tool-for-visualizing-and-controlling-neuronal/10.1117/1.NPh.11.2.024203.full
   description: Bioluminescence as a functional tool with emphasis on optical development and application in neurophotonics.
 
-- title: Volumetric fast microscopy (bioRxiv)
+- title: Deep learning enables fast bioluminescent imaging (bioRxiv)
   year: 2025
   tags: [Deep Learning, Fourier Light Field Imaging, Volumetric Imaging]
   link: https://www.biorxiv.org/content/10.1101/2025.10.13.680966v2.abstract
   description: Deep learning for fast volumetric microscopy reconstruction (Fourier light field imaging).
   featured: true
+  image: /assets/projects/fourier_lf.gif
 
 - title: DDQN in PyTorch (Medium)
   year: 2023
