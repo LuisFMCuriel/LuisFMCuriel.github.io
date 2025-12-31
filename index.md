@@ -11,13 +11,46 @@ title: Home
   <li><a href="/cv">CV</a></li>
 </ul>
 
-# Luis F. Curiel
+<div class="hero">
+  <!-- Optional: add a profile photo at assets/img/profile.jpg -->
+  <img class="avatar" src="/assets/img/profile.jpg" alt="Profile photo">
+  <div>
+    <h1>Luis F. Curiel</h1>
+    <p>
+      Deep learning for microscopy · Computational imaging · Physics-based simulation
+    </p>
+    <div class="buttons">
+      <a class="btn" href="/projects">View projects</a>
+      <a class="btn" href="/cv">View CV</a>
+      <!-- Optional later: publications page -->
+      <!-- <a class="btn" href="/publications">Publications</a> -->
+    </div>
+  </div>
+</div>
 
-I work on **deep learning for microscopy**, **computational imaging**, and **physics-based simulation**.
+<div class="section">
+  <h2>About</h2>
+  <p>
+    I build ML methods for microscopy and computational imaging, and I work on simulation-driven projects in physics/chemistry.
+    This site highlights selected research papers and software.
+  </p>
+</div>
 
-## Featured
-- Deep learning denoising for microscopy
-- Volumetric fast microscopy (Fourier light field imaging)
-- Deep reinforcement learning (DDQN in PyTorch)
+<div class="section">
+  <h2>Featured projects</h2>
 
-Go to **[Projects](/projects)** for papers + software, and **[CV](/cv)** for the full resume.
+  <div class="cards">
+  {% assign featured = site.data.projects | where: "featured", true %}
+  {% for p in featured limit: 4 %}
+    <div class="card">
+      <h3><a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.title }}</a></h3>
+      <p>{{ p.description }}</p>
+      <div class="meta">{{ p.year }} · {{ p.tags | join: " • " }}</div>
+    </div>
+  {% endfor %}
+  </div>
+
+  <p style="margin-top: 12px;">
+    See the full list on <a href="/projects">Projects</a>.
+  </p>
+</div>
