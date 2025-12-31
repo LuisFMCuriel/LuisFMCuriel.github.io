@@ -31,10 +31,12 @@ title: Home
 <div class="section">
   <h2>About</h2>
   <p>
-    I build ML methods for microscopy and computational imaging, and I work on simulation-driven projects in physics/chemistry.
-    This site highlights selected research papers and software.
+    My work focuses on deep learning methods for microscopy and computational imaging,
+    with applications to biological imaging and physics-based simulation.
+    I have contributed to peer-reviewed publications and open technical tutorials.
   </p>
 </div>
+
 
 <div class="section">
   <h2>Featured projects</h2>

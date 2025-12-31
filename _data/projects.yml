@@ -3,6 +3,7 @@
   tags: [Deep Learning, Microscopy]
   link: https://www.nature.com/articles/s42003-022-04292-x
   description: Denoising / restoration for microscopy using deep learning.
+  featured: true
 
 - title: Photochemical dynamics under incoherent light (JCP)
   year: 2020
@@ -15,9 +16,11 @@
   tags: [Deep Learning, Fourier Light Field Imaging]
   link: https://www.biorxiv.org/content/10.1101/2025.10.13.680966v2.abstract
   description: Deep learning for fast volumetric microscopy reconstruction.
+  featured: true
 
 - title: DDQN in PyTorch (Medium)
   year: 2023
   tags: [Reinforcement Learning, PyTorch]
   link: https://medium.com/@felipemoralescuriel/introduction-to-ddqn-in-pytorch-dd0e5092dbec
   description: Practical DDQN tutorial and implementation notes.
+  featured: true
