@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title: Luis F. Curiel
+description: Deep learning · Microscopy · Computational imaging
+
+theme: jekyll-theme-cayman
+url: "https://luisfcuriel.github.io"
