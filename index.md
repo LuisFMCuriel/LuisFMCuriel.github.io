@@ -25,10 +25,10 @@ title: Home
     </div>
 
     <div class="chips" style="margin-top: 12px;">
-      <span class="chip">Microscopy denoising</span>
-      <span class="chip">Volumetric imaging</span>
+      <span class="chip">Deep learning</span>
+      <span class="chip">Data Science</span>
       <span class="chip">Optics &amp; devices</span>
-      <span class="chip">RL in PyTorch</span>
+      <span class="chip">Computer vision</span>
     </div>
   </div>
 </div>
