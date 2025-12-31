@@ -3,7 +3,7 @@
   tags: [Deep Learning, Microscopy, Denoising]
   link: https://www.nature.com/articles/s42003-022-04292-x
   description: Denoising / restoration for microscopy using deep learning, including applications to bioluminescent microscopy.
-  image: /assets/img/projects/light_field.gif
+  image: /assets/projects/light_field.gif
   featured: true
 
 
