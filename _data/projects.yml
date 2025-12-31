@@ -1,9 +1,11 @@
-- title: Deep learning denoising for microscopy (Communications Biology)
+- title: Deep learning 3D microscopy reconstruction (Communications Biology)
   year: 2022
   tags: [Deep Learning, Microscopy, Denoising]
   link: https://www.nature.com/articles/s42003-022-04292-x
   description: Denoising / restoration for microscopy using deep learning, including applications to bioluminescent microscopy.
+  image: /assets/img/projects/light_field.gif
   featured: true
+
 
 - title: Photochemical dynamics under incoherent light (JCP)
   year: 2020

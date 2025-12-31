@@ -63,6 +63,12 @@ title: Home
   {% assign featured = site.data.projects | where: "featured", true %}
   {% for p in featured limit: 4 %}
     <div class="card">
+      {% if p.image %}
+      <div class="card-img">
+        <img src="{{ p.image }}" alt="{{ p.title }}">
+      </div>
+      {% endif %}
+
       <h3><a href="{{ p.link }}" target="_blank" rel="noopener">{{ p.title }}</a></h3>
       <p>{{ p.description }}</p>
 
