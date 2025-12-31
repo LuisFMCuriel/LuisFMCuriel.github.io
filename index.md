@@ -34,27 +34,42 @@ title: Home
 </div>
 
 <div class="section">
-  <h2>Focus</h2>
+  <h2>What I do</h2>
   <p>
-    I develop deep learning methods for microscopy and computational imaging, and work on simulation-driven projects in physics/chemistry.
-    This site highlights selected research papers and technical projects.
+    I build and deploy machine learning systems for imaging and autonomous decision-making,
+    with a focus on performance, reliability, and real-world constraints.
   </p>
 
   <div class="cards" style="margin-top: 12px;">
     <div class="card">
-      <h3>Research</h3>
-      <p>Deep learning for microscopy (denoising, reconstruction) and volumetric imaging.</p>
+      <h3>Applied machine learning</h3>
+      <p>
+        Design and training of deep learning models for computer vision and imaging,
+        replacing heuristic-based systems with data-driven approaches.
+        Experienced with PyTorch, TensorFlow, and production ML pipelines.
+      </p>
     </div>
+
     <div class="card">
-      <h3>Simulation</h3>
-      <p>Computational simulation of photochemical/solar-cell dynamics under incoherent light.</p>
+      <h3>Real-time &amp; edge systems</h3>
+      <p>
+        Development and deployment of ML systems under real-time constraints,
+        including edge-based inference, autonomous decision-making,
+        and hardware-integrated pipelines.
+      </p>
     </div>
+
     <div class="card">
-      <h3>Engineering</h3>
-      <p>Optics / neurophotonics development and practical ML implementations.</p>
+      <h3>Simulation &amp; physical modeling</h3>
+      <p>
+        Physics-based simulation and modeling to support system design and optimization,
+        including heat transfer and microfluidic systems (COMSOL),
+        tightly integrated with experimental and ML workflows.
+      </p>
     </div>
   </div>
 </div>
+
 
 <div class="section">
   <h2>Featured projects</h2>
