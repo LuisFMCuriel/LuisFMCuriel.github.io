@@ -1,0 +1,23 @@
+- title: Deep learning + microscopy (Cell Systems / Communications Biology)
+  year: 2022
+  tags: [Deep Learning, Microscopy]
+  link: https://www.nature.com/articles/s42003-022-04292-x
+  description: Denoising / restoration for microscopy using deep learning.
+
+- title: Photochemical dynamics under incoherent light (JCP)
+  year: 2020
+  tags: [Computational Simulation, Solar Cells]
+  link: https://pubs.aip.org/aip/jcp/article-abstract/152/7/074304/485526/Photochemical-dynamics-under-incoherent
+  description: Computational simulation of solar cell photochemical dynamics.
+
+- title: Volumetric fast microscopy (bioRxiv)
+  year: 2025
+  tags: [Deep Learning, Fourier Light Field Imaging]
+  link: https://www.biorxiv.org/content/10.1101/2025.10.13.680966v2.abstract
+  description: Deep learning for fast volumetric microscopy reconstruction.
+
+- title: DDQN in PyTorch (Medium)
+  year: 2023
+  tags: [Reinforcement Learning, PyTorch]
+  link: https://medium.com/@felipemoralescuriel/introduction-to-ddqn-in-pytorch-dd0e5092dbec
+  description: Practical DDQN tutorial and implementation notes.
