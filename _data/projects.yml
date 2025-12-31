@@ -49,3 +49,24 @@
   description: Deep learning approaches for denoising low-light microscopy data, enabling improved image quality under photon-limited conditions.
   image: /assets/projects/denoising.png   # optional, add later if you want
 
+- title: Physics-based simulation of microfluidic PCR heating - Confidential industry project
+  year: 2024
+  tags: [Physical Simulation, COMSOL, Microfluidics, Heat Transfer, Industry]
+  description: >
+    Performed physics-based simulations of a microfluidic PCR heater using COMSOL,
+    including coupled heat transfer and cooling flux modeling.
+    The work focused on temperature uniformity, thermal cycling performance,
+    and optimization under microfluidic constraints.
+    Details are confidential and available upon request.
+  image: /assets/projects/PCR_heater.png
+
+- title: Computer vision for microfluidic chip analysis -Confidential industry project
+  year: 2024
+  tags: [Computer Vision, Deep Learning, PyTorch, Microfluidics, Edge Computing, Industry]
+  description: >
+    Developed a deep neural network for feature detection and decision making
+    in microfluidic chips using Python and PyTorch.
+    The system was deployed on an edge-based computing platform,
+    enabling real-time inference under resource and latency constraints.
+    Details are confidential and available upon request.
+
