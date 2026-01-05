@@ -70,3 +70,19 @@
     enabling real-time inference under resource and latency constraints.
     Details are confidential and available upon request.
 
+- title: Customer query classification system (NLP, MLOps)
+  year: 2025
+  tags: [Machine Learning, NLP, Text Classification, MLOps, FastAPI, Industry]
+  link: https://github.com/LuisFMCuriel/Ryanair_classifier
+  description: >
+    Designed and deployed a multi-class NLP system to automatically classify customer
+    support queries into operational categories (e.g. flight changes, account issues,
+    mobile app issues).
+    Implemented a TF-IDF + Logistic Regression pipeline with class balancing,
+    achieving ~99% accuracy and strong per-class F1 scores on an imbalanced dataset.
+    The model was deployed as a FastAPI service with real-time and batch inference
+    endpoints, model versioning, and production-ready MLOps considerations
+    (containerization, reproducibility, and CI/CD readiness).
+  image: /assets/projects/FastAPI_batch.PNG
+
+
