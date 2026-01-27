@@ -3,7 +3,7 @@ include: ["assets"]
 
 
 title: Luis F. Curiel
-description: Deep learning · Microscopy · Computational imaging
+description: Data Science · Machine Learning · Computer Vision · DevOps
 
 theme: jekyll-theme-cayman
 url: "https://luisfcuriel.github.io"
