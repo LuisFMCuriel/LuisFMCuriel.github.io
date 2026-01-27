@@ -16,7 +16,7 @@ title: Home
   <div>
     <h1>Luis F. Curiel</h1>
     <p>
-      Deep learning for microscopy · Computational imaging · Physics-based simulation
+      Data Science · Machine Learning · DevOps
     </p>
 
     <div class="buttons">
