@@ -70,6 +70,7 @@
     The system was deployed on an edge-based computing platform,
     enabling real-time inference under resource and latency constraints.
     Details are confidential and available upon request.
+  image: /assets/projects/target_finder.png
 
 - title: Customer query classification system (NLP, MLOps)
   year: 2025
