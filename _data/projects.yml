@@ -63,6 +63,7 @@
 - title: Computer vision for microfluidic chip analysis -Confidential industry project
   year: 2025
   tags: [Computer Vision, Deep Learning, PyTorch, Microfluidics, Edge Computing, Industry]
+  link: https://github.com/LuisFMCuriel/Target-Finder-DL-for-microfluidics
   description: >
     Developed a deep neural network for feature detection and decision making
     in microfluidic chips using Python and PyTorch.
