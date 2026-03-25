@@ -87,4 +87,23 @@
     (containerization, reproducibility, and CI/CD readiness).
   image: /assets/projects/FastAPI_batch.PNG
 
-
+- title: Experiment Research Assistant (RAG, LLM Systems)
+  year: 2026
+  tags: [Machine Learning, LLM, RAG, Vector Databases, NLP, FAISS, Ollama, MLOps]
+  link: https://github.com/LuisFMCuriel/agent-researcher
+  description: >
+    Designed and built an end-to-end Retrieval-Augmented Generation (RAG) system
+    to query and analyze machine learning experiment results using natural language.
+    The system combines a structured SQL database (for experiment metadata and metrics)
+    with a FAISS vector index (for semantic retrieval of experiment reports),
+    enabling grounded and context-aware answers from a local LLM (Ollama).
+    
+    Implemented a full data pipeline including experiment ingestion, text chunking,
+    embedding generation, and vector indexing. At inference time, user queries are
+    embedded, relevant experiment chunks are retrieved via similarity search, and
+    enriched with metadata before being passed to the LLM for answer generation.
+    
+    The system supports reasoning over experimental results (e.g. comparing runs,
+    explaining performance differences) beyond simple SQL queries, demonstrating
+    the integration of retrieval systems with generative models in a production-style setup.
+  image: /assets/projects/RAG.png
