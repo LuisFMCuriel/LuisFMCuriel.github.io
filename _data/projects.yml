@@ -106,4 +106,5 @@
     The system supports reasoning over experimental results (e.g. comparing runs,
     explaining performance differences) beyond simple SQL queries, demonstrating
     the integration of retrieval systems with generative models in a production-style setup.
+    featured: true
   image: /assets/projects/RAG.png
